@@ -28,3 +28,4 @@ outubro/2018 em Natal/RN.
 - [**O que são Blockchains, do que se alimentam e como construir isso com Python**](o_que_sao_blockchains) - [Isac Moura](https://github.com/isacmoura)
 - [**Da requisição à resposta - Como o Django processa uma requisição**](da_requisição_%20à_resposta_como_o_django_processa_uma_requisição) - [Luciano Ratamero](https://github.com/lucianoratamero/)
 - [**Emulação de processadores - Primeiros passos para emular um NES em Python**](primeiros_passos_para_emular_um_nes) - [Ronaldo Tomazeli Duarte](https://github.com/ronaldotd/)
+- [**Programação Cidadã: dados abertos e o porquê você deveria estar contribuindo*](programação_cidadã_dados_abertos_e_o_porquê_você_deveria_estar_contribuindo) - [pBaesse](https://contato.pbaesse.net)
